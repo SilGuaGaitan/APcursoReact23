@@ -1,0 +1,54 @@
+.cuerpo {
+  margin:0;
+  border-radius:20px; 
+  
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:rgba(49, 233, 243, 0.409);
+}
+.card{
+  border-radius:20px;
+  border: 1px solid #ccc;
+  background-color:white;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+
+
+}
+.card2{
+  display: flex;
+  gap:10px;
+  border-radius:20px;
+  border: 1px solid #ccc;
+  background-color:white;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+
+ 
+}
+button {
+  padding: 8px 28px;
+  font-size: 20px;
+  color: rgb(17, 17, 17);
+  border: 0;
+  font-weight: 700;
+  background: #43d8e9;
+  border-radius: 9px;
+  border: 1px solid black;
+}
+span {
+  color: rgb(2, 2, 21);
+  font-weight: 500;
+  font-size: 30px;
+}
+
+
+
+
+
